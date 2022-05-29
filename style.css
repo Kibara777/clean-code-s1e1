@@ -89,8 +89,7 @@ input[type="text"]:focus {
   color: #333;
 }
 
-/* New Task */
-/* New Task */
+  /* New Task */
 .list__item_new {
     border-bottom: 0;
   }
